@@ -3,7 +3,7 @@ import os
 import sys
 
 
-if "linun" in sys.platform:
+if "linux" in sys.platform:
     os.system("clear")
 elif "win" in sys.platform:
     os.system("cls")
