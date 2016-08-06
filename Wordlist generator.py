@@ -542,6 +542,129 @@ else:
 arquivo = open("word.txt", "w")
 n = "n"
 for x in range(1, 40):
+    arquivo.write(str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n1) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n2) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n3) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n4) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n5) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n6) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n7) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n8) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n9) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n10) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n11) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n12) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n13) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n14) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n15) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n16) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n17) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n18) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n19) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n20) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n21) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n22) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n23) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n24) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n25) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n26) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n27) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n28) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n29) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n30) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n31) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n32) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n33) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n34) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n35) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n36) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n37) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
+    arquivo.write(str(n38) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for n in range(1, 40):
+    arquivo.write(str(n39) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for n in range(1, 40):
+    arquivo.write(str(n40) + str(eval(str(n) + str(x))) + "@")
+    arquivo.write("\n")
+for x in range(1, 40):
     arquivo.write(str(eval(str(n) + str(x))))
     arquivo.write("\n")
 for x in range(1, 40):
